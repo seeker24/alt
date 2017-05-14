@@ -1,4 +1,4 @@
-🔃ultra bot Lateral Options :
+🔃tgGuard Lateral Options :
 
 ➡️ Group /User Info  :
 To Get Group/User Information 
@@ -38,5 +38,5 @@ To Remove Msgs
     ➖➖➖➖➖➖➖
        ➖➖➖
          ➖
-`our massenger @golsarpm_bot`
-our Channel : @owners_groups
+`develop by @sajjad_021`
+tgChannel : @tgMember
