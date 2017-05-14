@@ -1,4 +1,4 @@
-tgGuard General Options
+﻿ultrabot General Options
 ➡️ Group Enable Settings :
 To Lock General Options 
 ➡️ Command : Lock (.*)

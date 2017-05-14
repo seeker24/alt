@@ -1,4 +1,4 @@
-🔃Bot GetRanks Option
+﻿🔃Bot GetRanks Option
 
  Set Group Admin And Owners :
 Set User Rank For Bot
@@ -9,7 +9,7 @@ Set User Rank For Bot
 ➡️ Command : Demote
 ➡️ Command : Modlist
 ➖➖➖➖➖➖
-➡️ Example : `Promote @sajjad_021'
+➡️ Example : `Promote @golsar'
 Promote 158955285
 ➖➖➖➖➖➖
 ➡️ Clean Lists :

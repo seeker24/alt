@@ -1,4 +1,4 @@
-🔃List Of tgGuard Help :
+﻿🔃List Of ultrabot Help :
 
 🔷Please choose a section to display❗️
 1️⃣ : Help For Bot Conditions
@@ -15,5 +15,5 @@ OR
     ➖➖➖➖➖➖➖
        ➖➖➖
          ➖
-`develop by @sajjad_021`
-tgChannel : @tgMember
+`our massenger @golsarpm_bot`
+our Channel : @owners_groups

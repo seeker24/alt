@@ -1,4 +1,4 @@
-🔃Bot Flood & Spam :
+﻿🔃Bot Flood & Spam :
 
 ➡️ Set Spam Char :
 Set A Number For Spam Check And Then More Than That Number Of Word Char Has Been Delete
@@ -19,5 +19,5 @@ Set A Time That Bot Check Flooding
     ➖➖➖➖➖➖➖
        ➖➖➖
          ➖
-`develop by @sajjad_021`
-tgChannel : @tgMember
+`our massenger @golsarpm_bot`
+our Channel : @owners_groups
