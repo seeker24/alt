@@ -14,8 +14,6 @@ logo[3]=" ||    |''    | '|' ||   ||       | '|' ||   ||   || ||       ||   |."
 logo[4]=" '|.' '|||.  .|. | .||. .||....| .|. | .||. .||..|' .||....| .||.  '|'"
 logo[5]="    .|...'"
 logo[6]="➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖"
-logo[7]="Channel : @tgMember"
-logo[8]="Develop by @sajjad_021"
 printf "\e[38;5;213m\t"
     for i in ${!logo[@]}; do
         for x in `seq 0 ${#logo[$i]}`; do
@@ -37,8 +35,6 @@ log() {
          echo -e "\033[38;5;129m||   -_-_\033[0;00m"
             echo -e "\033[38;5;129m,_-_-\.\033[0;00m"
   echo -e "\033[38;5;208m➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\033[0;00m"
-  echo '>Channel : '"@tgMember"
-  echo '>Develop by '"@sajjad_021"
  }
   
  install_luarocks() {
@@ -128,8 +124,6 @@ echo ">Total Ram : $memTotal_m MB  Ram in use : $memUsed_m MB - $memUsedPrc% use
 echo '>Cpu in use : '"$CPUPer"'%'
 echo '>Server Uptime : '"$uptime"
 echo -e "\033[38;5;208m➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\033[0;00m"
-echo '>Channel : '"@tgMember"
-echo '>Develop by '"@sajjad_021"
 }
 
 
@@ -141,8 +135,6 @@ echo -e "for see your server info use => \033[38;5;208m./make.sh info\033[0;00m"
 echo -e "\033[38;5;037mOr\033[0;00m"
 echo -e "you can use the => \033[38;5;208m./make.sh\033[0;00m <= command for run your robot."
 echo -e "\033[38;5;208m➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\033[0;00m"
-echo '>Channel : '"@tgMember"
-echo '>Develop by '"@sajjad_021"
 }
 
 if [ "$1" = "info" ]; then
